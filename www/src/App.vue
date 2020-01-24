@@ -32,6 +32,7 @@
         line-height: 1.8;
         font-weight: 400;
         position: relative;
+        margin: 0;
     }
 
     body:after {
