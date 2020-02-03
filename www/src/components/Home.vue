@@ -56,4 +56,8 @@
     .main-title {
         padding-top: 60px;
     }
+
+    .swiper-pagination {
+        position: fixed;
+    }
 </style>
